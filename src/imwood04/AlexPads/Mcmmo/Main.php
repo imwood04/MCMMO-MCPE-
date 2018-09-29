@@ -1,6 +1,6 @@
 <?php
 
-namespace imwood04\AlexPads\MCMMO
+namespace imwood04\AlexPads\Mcmmo
 
 use pocketmine\player;
 use pocketmine\
