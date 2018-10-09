@@ -1,5 +1,6 @@
-name: MCMMO(MCPE)
+# MCMMO(MCPE)
 main: imwood04\AlexPads\Mcmmo\Main
 api: [3.0.0]
 version: 0.1
 author: imwood04! and TinyPixelDevz
+:construction_worker:
